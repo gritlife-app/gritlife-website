@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gritlife.app/sitemap.xml
